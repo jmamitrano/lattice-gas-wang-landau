@@ -207,5 +207,3 @@ an abrupt jump in surface coverage at a critical pressure — and the same
 model, in its original spin language, describes the discontinuous jump in
 magnetization of a ferromagnet as an external field crosses zero below its
 Curie temperature.
-#   l a t t i c e - g a s - w a n g - l a n d a u  
- 
